@@ -1,5 +1,5 @@
 {
-  "name": "sandbox",
+  "name": "hello-near",
   "version": "1.0.0",
   "license": "(MIT AND Apache-2.0)",
   "scripts": {
@@ -16,5 +16,7 @@
   "devDependencies": {
     "near-cli": "^3.3.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
